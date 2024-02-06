@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stoians80
+- 👋 Hi, I’m @stoians80 (posted that in 2015... abit older now and abit wiser)
 - 👀 I’m interested in everything about computers hardware and software
 - 🌱 I’m currently learning python, and to work with micro soldering iron well (my hands are shaky)
 - 💞️ I’m looking to collaborate on gamedevelopment of any kind of game that is actually interesting
